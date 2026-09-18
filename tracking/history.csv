@@ -4,3 +4,4 @@ timestamp,task_id,subtask_id,user_id,action,outcome,detail,command,version,input
 2026-09-18T12:32:17.400Z,P0001,S0001,297915765,claim_validation,accepted,,campaign.claimValidation,1,"{""task_id"":""P0001"",""subtask_id"":""S0001""}"
 2026-09-18T12:42:48.311Z,P0001,S0001,297915765,submit_validation,accepted,pass,campaign.submitValidation,2,"{""task_id"":""P0001"",""subtask_id"":""S0001"",""verdict"":""pass""}"
 2026-09-18T12:44:01.240Z,P0002,,297915765,claim_encoding,accepted,,campaign.claimTask,1,"{""task_id"":""P0002""}"
+2026-09-18T12:45:31.984Z,P0002,,297915765,submit_encoding,accepted,,campaign.submitScoreSetup,1,"{""task_id"":""P0002"",""staves"":4,""groups"":0,""keysig"":""0"",""meter"":""3/8""}"

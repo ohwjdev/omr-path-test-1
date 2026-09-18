@@ -1,3 +1,4 @@
 timestamp,task_id,subtask_id,user_id,action,outcome,detail,command,version,input
 2026-09-18T11:42:11.219Z,P0001,,297915765,claim_encoding,accepted,,campaign.claimTask,1,"{""task_id"":""P0001""}"
 2026-09-18T12:15:32.575Z,P0001,,297915765,submit_encoding,accepted,,campaign.submitOmrLayout,1,"{""task_id"":""P0001"",""staves"":51,""measures"":63,""systems"":2,""movements"":1}"
+2026-09-18T12:32:17.400Z,P0001,S0001,297915765,claim_validation,accepted,,campaign.claimValidation,1,"{""task_id"":""P0001"",""subtask_id"":""S0001""}"
